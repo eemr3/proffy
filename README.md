@@ -1,4 +1,4 @@
- Projeto Proffy
+ # Projeto Proffy
 
 ## **Criado durante a NLW#2 - Rocketseat**
 
