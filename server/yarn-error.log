@@ -1,0 +1,41 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add typescritp -D
+
+PATH: 
+  F:\Console-CmDer\bin;F:\Console-CmDer\vendor\bin;F:\Console-CmDer\vendor\conemu-maximus5\ConEmu\Scripts;F:\Console-CmDer\vendor\conemu-maximus5;F:\Console-CmDer\vendor\conemu-maximus5\ConEmu;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Emerson\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Emerson\AppData\Local\Programs\Python\Python38-32\;C:\Ruby26-x64\bin;C:\Users\Emerson\AppData\Local\Microsoft\WindowsApps;C:\Users\Emerson\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Emerson\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\Emerson\AppData\Local\Yarn\bin;C:\Users\Emerson\AppData\Roaming\npm;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;F:\Console-CmDer;F:\Console-CmDer\vendor\git-for-windows\cmd;F:\Console-CmDer\vendor\git-for-windows\mingw64\bin;F:\Console-CmDer\vendor\git-for-windows\usr\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/typescritp: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66096:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140748:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141720:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141642:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1220:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  {
+    "name": "server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
