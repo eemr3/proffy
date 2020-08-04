@@ -1,13 +1,12 @@
 import express from 'express'
+import routes from './routes'
+import cors from 'cors'
 
 const app = express()
 
-//Configurando o express para entender o formato json
-app.use(express.json())
-
-app.get('/', (req, res) => {
-  return res.json({ message: 'Hello World' })
-})
+app.use(cors())
+app.use(express.json()) //Configurando o express para entender o formato json
+app.use(routes)
 
 //Ligando o servidor
 app.listen(3333, () => {
