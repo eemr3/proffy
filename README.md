@@ -6,6 +6,6 @@ Projeto consiste em uma aplicação que professores que estão disponivéis para
 
 ![Proffy](https://raw.githubusercontent.com/eemr3/imagens/master/Proffy-Web-Copy-%E2%80%93-Figma.jpg "Proffy")
 
-## Em construção :construction: 2º Dia!!
+## Em construção :construction: 3º Dia!!
 
 By Emerson Moreira 
