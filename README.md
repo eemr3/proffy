@@ -1,5 +1,7 @@
  # Projeto Proffy
-[![GitHub stars](https://img.shields.io/github/stars/eemr3/proffy)](https://github.com/eemr3/proffy/stargazers) [![GitHub license](https://img.shields.io/github/license/eemr3/proffy?color=blue)](https://github.com/eemr3/proffy/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/eemr3/proffy?color=orange)](https://github.com/eemr3/proffy/network)
+[![GitHub stars](https://img.shields.io/github/stars/eemr3/proffy)](https://github.com/eemr3/proffy/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/eemr3/proffy?color=orange)](https://github.com/eemr3/proffy/network)
+[![GitHub license](https://img.shields.io/github/license/eemr3/proffy?color=blue)](https://github.com/eemr3/proffy/blob/master/LICENSE) 
 ## **Criado durante a NLW#2 - Rocketseat**
 
 Projeto consiste em uma aplicação que professores que estão disponivéis para dar aulas particulares a alunos que se interesarem.
