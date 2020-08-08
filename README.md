@@ -1,11 +1,9 @@
 <h2 align="center">Proffy</h2>
 ___
 
-
 <p align="center">
   <img src="https://readme-maker.herokuapp.com/uploads/21869d4c210a48a1-Proffy-Web-Copy-–-Figma.jpg" width="800" heigth="800">
 </p>
-
 
 <p align="center">
  <a href="https://github.com/eemr3/proffy/stargazers">
@@ -22,7 +20,7 @@ ___
   </a>
 </p>
 
-___
+---
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
@@ -33,12 +31,11 @@ ___
   <a href="#licença">Licença</a>
 </h3>
 
-___
-
+---
 
 ## :information_source: Sobre
 
-Proffy é uma aplicação para conectar profissionais de educação (professores) que estão disponíveis para ministrarem aulas particulares,  com alunos que desejam estudar.
+Proffy é uma aplicação para conectar profissionais de educação (professores) que estão disponíveis para ministrarem aulas particulares, com alunos que desejam estudar.
 
 ## :interrobang: Motivo
 
@@ -48,7 +45,7 @@ A principio forma de estudo, durante a NLW #2 - Rocketseat
 
 NodeJs v12.18.3, Expo 3.21.5
 
-## :rocket: Tecnologias Utilizadas 
+## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -57,7 +54,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Expo
 - TypeScript
 
-## :link: Como contribuir 
+## :link: Como contribuir
 
 - Faça um Fork do repositório
 - Clone o seu repositório
@@ -66,6 +63,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - 'Push' a sua branch
 - Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
 
-## Licença 
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+<p>By Emerson Moreira</p>
