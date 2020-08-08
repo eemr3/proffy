@@ -3,7 +3,7 @@ ___
 
 
 <p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/21869d4c210a48a1-Proffy-Web-Copy-–-Figma.jpg" width="300" heigth="300">
+  <img src="https://readme-maker.herokuapp.com/uploads/21869d4c210a48a1-Proffy-Web-Copy-–-Figma.jpg" width="800" heigth="800">
 </p>
 
 
