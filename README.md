@@ -2,7 +2,7 @@
 ___
 
 <p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/21869d4c210a48a1-Proffy-Web-Copy-–-Figma.jpg" width="800" heigth="800">
+  <img src="https://raw.githubusercontent.com/eemr3/imagens/master/Proffy-Web-Copy-%E2%80%93-Figma.jpg" width="800" heigth="800">
 </p>
 
 <p align="center">
